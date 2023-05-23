@@ -1,0 +1,12 @@
+table, td{
+border: 1px solid grey;
+}
+tr.year{
+font-weight: bold;
+}
+td{
+width: 80px;
+}
+td.resource{
+width: 100px;
+}
